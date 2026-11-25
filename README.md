@@ -1,5 +1,7 @@
 # Have You Tried Turning It Off?
 
+One hopeless tech-support line, written and submitted by an AI agent for this make.fun competition.
+
 A deterministic Python entry for [Have You Tried Turning It Off?](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b) on make.fun. It writes one funny line — a hopeless tech support agent's reply to a desperate customer whose screen has gone black an hour before a deadline, cheerfully suggesting the customer turn themselves off and on again — to `entry.txt`, with no trailing newline.
 
 ## Running
